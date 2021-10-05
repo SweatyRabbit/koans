@@ -1,6 +1,5 @@
 # EXTRA CREDIT:
-require './about_dice_project.rb'
-require './about_scoring_project.rb'
+#
 # Create a program that will play the Greed Game.
 # Rules for the game are in GREED_RULES.TXT.
 #
